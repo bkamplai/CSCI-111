@@ -1,0 +1,2 @@
+Customer's residential address and destination can't be the same.
+Destination flight must either be SF, LA, or NY.

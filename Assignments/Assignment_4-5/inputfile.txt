@@ -1,0 +1,6 @@
+Smith Denver NY 11-05-2021 5
+Brighton LA SF 12-10-2021 12
+Kamplain Fruita NY 11-27-2021 20
+Kamplain NY LA 12-02-2021 18
+Brighton SF SF 12-15-2021 12
+Smith NY Denver 11-15-2021 5
